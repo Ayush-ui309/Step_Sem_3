@@ -3,18 +3,8 @@
 Academic Year: 2026–27
 Semester: 3
 
-## Date: 18-09-2026
+This repository contains my Java programming practice and coursework for Semester 3.
 
-Today's Work:
+The completed work is organized session-wise and topic-wise according to the prescribed GitHub repository structure.
 
-Set up the GitHub repository and organized the Java coursework according to the prescribed repository and branching structure.
-
-Pushed the available Java programming work in an organized session-wise format.
-
-Next Session Plan:
-
-Continue Java programming practice and update the repository with the work completed in the upcoming session.
-
-Issues Faced:
-
-Initial Git repository setup and remote connection configuration were completed before pushing the code.
+Future coding sessions and progress will be documented through regular README updates.
